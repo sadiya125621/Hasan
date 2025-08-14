@@ -1,1 +1,147 @@
-function _0x30a0(_0x3758f3,_0x265197){const _0x435816=_0xf7bd();return _0x30a0=function(_0x5e42f2,_0x5a136b){_0x5e42f2=_0x5e42f2-(-0x13e4+-0x1*0x2d7+-0x181d*-0x1);let _0x59a686=_0x435816[_0x5e42f2];return _0x59a686;},_0x30a0(_0x3758f3,_0x265197);}const _0x14970c=_0x30a0;(function(_0x50620c,_0x273f88){const _0x85cd66=_0x30a0,_0x87ea7b=_0x50620c();while(!![]){try{const _0x3dab05=-parseInt(_0x85cd66(0x174))/(0x1b42+-0x4*0x4f+-0x1a05)+-parseInt(_0x85cd66(0x194))/(-0x61c+0x157e+-0xf60)*(-parseInt(_0x85cd66(0x199))/(-0x1*-0x1675+-0x1e3d*0x1+0x7cb))+parseInt(_0x85cd66(0x165))/(0x2b5+0xd20+-0xfd1)*(-parseInt(_0x85cd66(0x17c))/(-0x1*0x28f+0x1f*-0xd+0x427*0x1))+parseInt(_0x85cd66(0x1a7))/(-0x1c1+0x1cc1+-0x8fe*0x3)*(-parseInt(_0x85cd66(0x186))/(-0xd8d+0x3c4*0x2+-0x9*-0xac))+parseInt(_0x85cd66(0x18e))/(-0x15d7+0x26f*0x10+-0x1111)*(-parseInt(_0x85cd66(0x171))/(0x17a8+0x2*-0x847+-0x711))+-parseInt(_0x85cd66(0x196))/(0x15*-0xd6+0x8*0x202+0x1c*0xe)+parseInt(_0x85cd66(0x170))/(-0xae6+-0x1*-0x649+0x4a8);if(_0x3dab05===_0x273f88)break;else _0x87ea7b['push'](_0x87ea7b['shift']());}catch(_0x3d7638){_0x87ea7b['push'](_0x87ea7b['shift']());}}}(_0xf7bd,-0x1*0x106fa+0x59821+0x900*0x65));const axios=require(_0x14970c(0x163));function _0xf7bd(){const _0x36d083=['-with-gemi','136176maPEOe','message','text_only','post','r\x20request.','\x20reply','63106lqGITM','SbwfR','7314000IIfBkr','essing\x20you','1.0','51OxwgYl','ge\x20|\x20photo','QmZxD','Sorry,\x20the','sendMessag','data','messageID','ing\x20Gemini','\x20AI:','DPjuu','laikum\x0a\x0a\x0a\x0a','re\x20was\x20an\x20','google','AWuPa','12378EgstUE','threadID','mage','axios','dtwKw','258872jJpIoZ','Error:','𖣘\x20-𝐁𝐎𝐓\x20⚠️\x20𝑻','𝑬𝑨𝑴_\x20☢️','r.com/chat','exports','minipro-3r','assist\x20you','result','Assalamu\x20A','attachment','21969684almPhJ','126NoOdwl','Error\x20call','—͟͟͞͞𝐂𝐘𝐁𝐄𝐑\x20☢️_','190527RraeCm','messageRep','LyHjV','text_and_i','ply','{pn}\x20messa','message_re','ow\x20\x20can\x20i\x20','25vDgbIw','error','join','aACuq','type','hs.onrende','dSYGM','error\x20proc','https://ge','gemeini\x20ai','1757wqtJKc','url','𖣘\x20-𝐁𝐎𝐓\x20⚠️\x0aH','lnSKN','uPpCl','QwXLr','\x20today?'];_0xf7bd=function(){return _0x36d083;};return _0xf7bd();}module[_0x14970c(0x16a)]={'config':{'name':'ai','version':_0x14970c(0x198),'credit':_0x14970c(0x173)+_0x14970c(0x167)+_0x14970c(0x168),'description':_0x14970c(0x185),'cooldowns':0x5,'hasPermssion':0x0,'commandCategory':_0x14970c(0x1a5),'usages':{'en':_0x14970c(0x179)+_0x14970c(0x19a)+_0x14970c(0x193)}},'run':async({api:_0x514d79,args:_0x57f99e,event:_0x2521fc})=>{const _0x50ad23=_0x14970c,_0x508928={'QmZxD':function(_0x442662,_0x446283){return _0x442662===_0x446283;},'uPpCl':_0x50ad23(0x17a)+_0x50ad23(0x178),'DPjuu':_0x50ad23(0x184)+_0x50ad23(0x16b)+_0x50ad23(0x181)+_0x50ad23(0x169)+_0x50ad23(0x18d)+'ni','SbwfR':_0x50ad23(0x177)+_0x50ad23(0x162),'QwXLr':function(_0x22519d,_0x14a78e){return _0x22519d||_0x14a78e;},'AWuPa':_0x50ad23(0x166),'dtwKw':_0x50ad23(0x16e)+_0x50ad23(0x1a3)+_0x50ad23(0x173)+_0x50ad23(0x188)+_0x50ad23(0x17b)+_0x50ad23(0x16c)+_0x50ad23(0x18c),'lnSKN':_0x50ad23(0x190),'LyHjV':_0x50ad23(0x172)+_0x50ad23(0x1a0)+_0x50ad23(0x1a1),'aACuq':function(_0x497c7f,_0x48ea59){return _0x497c7f+_0x48ea59;},'dSYGM':_0x50ad23(0x19c)+_0x50ad23(0x1a4)+_0x50ad23(0x183)+_0x50ad23(0x197)+_0x50ad23(0x192)},_0x19c761=_0x57f99e[_0x50ad23(0x17e)]('\x20');if(_0x508928[_0x50ad23(0x19b)](_0x2521fc[_0x50ad23(0x180)],_0x508928[_0x50ad23(0x18a)])){var _0x4d49f7=_0x2521fc[_0x50ad23(0x175)+'ly'][_0x50ad23(0x16f)+'s'][-0x1e17+0xfad*0x1+-0x267*-0x6][_0x50ad23(0x187)];try{const _0x3f9592=await axios[_0x50ad23(0x191)](_0x508928[_0x50ad23(0x1a2)],{'modelType':_0x508928[_0x50ad23(0x195)],'prompt':_0x508928[_0x50ad23(0x18b)](_0x19c761,''),'imageParts':[_0x4d49f7]}),_0x41c9cd=_0x3f9592[_0x50ad23(0x19e)][_0x50ad23(0x16d)];_0x514d79[_0x50ad23(0x19d)+'e'](_0x41c9cd,_0x2521fc[_0x50ad23(0x1a8)],_0x2521fc[_0x50ad23(0x19f)]);}catch(_0x122064){console[_0x50ad23(0x17d)](_0x508928[_0x50ad23(0x1a6)],_0x122064[_0x50ad23(0x18f)]),_0x514d79[_0x50ad23(0x19d)+'e'](_0x122064,_0x2521fc[_0x50ad23(0x1a8)],_0x2521fc[_0x50ad23(0x19f)]);}}else{if(!_0x19c761)return _0x514d79[_0x50ad23(0x19d)+'e'](_0x508928[_0x50ad23(0x164)],_0x2521fc[_0x50ad23(0x1a8)],_0x2521fc[_0x50ad23(0x19f)]);else try{const _0xff40a3=await axios[_0x50ad23(0x191)](_0x508928[_0x50ad23(0x1a2)],{'modelType':_0x508928[_0x50ad23(0x189)],'prompt':_0x19c761}),_0x34bc2a=_0xff40a3[_0x50ad23(0x19e)][_0x50ad23(0x16d)];_0x514d79[_0x50ad23(0x19d)+'e'](_0x34bc2a,_0x2521fc[_0x50ad23(0x1a8)],_0x2521fc[_0x50ad23(0x19f)]);}catch(_0x5e0d59){console[_0x50ad23(0x17d)](_0x508928[_0x50ad23(0x176)],_0x5e0d59),_0x514d79[_0x50ad23(0x19d)+'e'](_0x508928[_0x50ad23(0x17f)](_0x508928[_0x50ad23(0x182)],_0x5e0d59),_0x2521fc[_0x50ad23(0x1a8)],_0x2521fc[_0x50ad23(0x19f)]);}}}};
+// ai.js — Advanced, drop-in compatible
+const axios = require("axios");
+
+/**
+ * ছোট্ট থ্রেড-মেমোরি: একই গ্রুপ/থ্রেডে শেষ কয়েকটা বার্তা জমা রাখে
+ * বট রিস্টার্ট হলে মেমোরি রিসেট হবে (ইন-মেমোরি)
+ */
+const memoryByThread = new Map();
+const MAX_MEMORY = 5;
+
+// তোমার আগের এন্ডপয়েন্ট প্যাটার্নই রাখা হলো
+const GEMINI_ENDPOINT = "https://gehs.onrender.com/chat-with-gemini";
+// ইমেজ না থাকলে: "text_only", ইমেজ থাকলে: "text_and_image"
+
+module.exports = {
+  config: {
+    name: "ai",
+    version: "2.0.0",
+    credit: "Naim + GPT-5 Thinking",
+    description: "Gemini AI (text + image) with context & language auto-detect",
+    cooldowns: 3,
+    hasPermssion: 0,
+    commandCategory: "AI",
+    usages: {
+      en: "ai <message> (or reply to an image with: ai <prompt>)"
+    }
+  },
+
+  run: async ({ api, args, event }) => {
+    const threadID = event.threadID;
+    const messageID = event.messageID;
+
+    // ইউজার ইনপুট
+    const userText = args.join(" ").trim();
+
+    // রিপ্লাই করা মেসেজ/অ্যাটাচমেন্ট বের করা
+    const replied = event.messageReply || null;
+    const repliedAttachments = replied?.attachments || [];
+    const currentAttachments = event.attachments || [];
+
+    // কোন ইমেজ আছে কি না খোঁজা (রিপ্লাই করা মেসেজে বা বর্তমান মেসেজে)
+    const findImageUrl = (atts) => {
+      for (const a of atts) {
+        const t = (a.type || "").toLowerCase();
+        if (t.includes("photo") || t.includes("image")) {
+          if (a.url) return a.url;
+          if (a.previewUrl) return a.previewUrl;
+          if (a.hiresUrl) return a.hiresUrl;
+        }
+      }
+      return null;
+    };
+
+    const repliedImage = findImageUrl(repliedAttachments);
+    const currentImage = findImageUrl(currentAttachments);
+    const imageUrl = repliedImage || currentImage;
+
+    // কিছু না লিখে দিলে এবং কোনো ইমেজও না থাকলে—ব্যবহারের বার্তা
+    if (!userText && !imageUrl) {
+      return api.sendMessage(
+        "✍️ কিছু লিখুন (যেমন: `ai আমার জন্য একটা ক্যাপশন দাও`) অথবা কোনো ছবিতে রিপ্লাই করে `ai <prompt>` লিখুন।",
+        threadID,
+        messageID
+      );
+    }
+
+    // বাংলা/ইংরেজি সনাক্তকরণ (খুব লাইটওয়েট)
+    const isBangla = /[\u0980-\u09FF]/.test(userText || (replied?.body || ""));
+    const langInstr = isBangla
+      ? "আপনি বাংলায় স্পষ্ট, ভদ্র ও সহায়ক ভঙ্গিতে উত্তর দেবেন। প্রয়োজন হলে ছোট উদাহরণ দিন।"
+      : "Reply in clear, polite, and helpful English. Add concise examples if useful.";
+
+    // থ্রেড কনটেক্সট (আগের 5টা বিনিময়)
+    const history = memoryByThread.get(threadID) || [];
+    const clippedHistory = history.slice(-MAX_MEMORY);
+
+    // রিপ্লাই করা টেক্সট থাকলে কনটেক্সটে যোগ করি
+    const repliedText = replied?.body ? `\n\n[Replied message]: ${replied.body}` : "";
+
+    // সিস্টেম/ইন্সট্রাকশন + কনটেক্সট
+    const systemPrompt = [
+      "You are a friendly, concise, and knowledgeable assistant.",
+      "Be accurate and avoid hallucinations. If unsure, say you are unsure.",
+      "Format short lists with bullets and keep answers tight but complete.",
+      langInstr
+    ].join(" ");
+
+    // কনটেক্সট বিল্ড
+    const contextBlock = clippedHistory
+      .map((turn, i) => `Turn ${i + 1}:\nUser: ${turn.user}\nAI: ${turn.ai}`)
+      .join("\n\n");
+
+    const fullPrompt = [
+      `System: ${systemPrompt}`,
+      contextBlock ? `\n\n[Conversation Memory]\n${contextBlock}` : "",
+      `\n\nUser: ${userText || "(no text, image-based request)"}${repliedText}`,
+      "Assistant:"
+    ].join("");
+
+    // API পে-লোড তৈরি
+    const payload = {
+      modelType: imageUrl ? "text_and_image" : "text_only",
+      prompt: fullPrompt
+    };
+    if (imageUrl) {
+      payload.imageParts = [imageUrl];
+    }
+
+    // টাইপিং ফিডব্যাক (সাপোর্ট থাকলে)
+    try {
+      api.sendTypingIndicator?.(threadID);
+    } catch (_) {}
+
+    try {
+      const res = await axios.post(GEMINI_ENDPOINT, payload, {
+        timeout: 25_000 // 25s
+      });
+
+      const result =
+        (res && res.data && (res.data.result || res.data.text || res.data.reply)) ||
+        "";
+
+      const replyText =
+        result.trim() ||
+        (isBangla
+          ? "দুঃখিত, আমি এই মুহূর্তে উত্তর প্রস্তুত করতে পারিনি। একটু পরে আবার চেষ্টা করুন।"
+          : "Sorry, I couldn't generate a reply right now. Please try again shortly.");
+
+      // মেসেজ পাঠানো
+      api.sendMessage(replyText, threadID, messageID);
+
+      // মেমোরি আপডেট
+      const newTurn = {
+        user: userText || (imageUrl ? "[image]" : ""),
+        ai: replyText
+      };
+      memoryByThread.set(threadID, [...clippedHistory, newTurn].slice(-MAX_MEMORY));
+    } catch (err) {
+      console.error("[AI ERROR]", err?.response?.data || err?.message || err);
+
+      const msg = isBangla
+        ? "⚠️ AI সার্ভারে সমস্যা হচ্ছে বা সময় শেষ হয়ে গেছে। কিছুক্ষণ পর আবার চেষ্টা করুন।"
+        : "⚠️ The AI server had an issue or timed out. Please try again later.";
+      api.sendMessage(msg, threadID, messageID);
+    }
+  }
+};
